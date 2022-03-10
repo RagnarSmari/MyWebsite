@@ -1,0 +1,10 @@
+body {
+    align-content: center;
+    text-align: center;
+}
+
+#header{
+    background-color:grey;
+    width: 100%;
+}
+
