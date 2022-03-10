@@ -2,7 +2,7 @@
   "name": "mywebsite",
   "version": "1.0.0",
   "description": "",
-  "main": "index.json",
+  "main": "html.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
